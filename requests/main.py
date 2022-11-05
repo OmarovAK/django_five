@@ -142,7 +142,7 @@ def main():
             count = True
             sensor_get_id()
         else:
-            print('Введена не корректная комманда')
+            print('Введена не корректная команда')
 
 
 main()
